@@ -1,2 +1,2 @@
 # opvir
-A place to practice to perfection
+A place to learn, practice and gain experience.
